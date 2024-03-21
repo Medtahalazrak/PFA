@@ -16,7 +16,7 @@ Côté Blue Team
 
 Côté Red Team
 
-    Ressencement des Infrastructures : Cette section se concentrera sur les méthodes et les outils utilisés par la Red Team pour identifier et cartographier les infrastructures cibles. Nous discuterons des techniques telles que la collecte d'informations passive et active, la recherche d'informations publiquement disponibles et la reconnaissance de l'architecture réseau.
+    Ressencement des Infrastructures : Cette section se concentrera sur les méthodes et les outils utilisés par la Red Team pour identifier et cartographier les infrastructures cibles. Nous discuterons des techniques telles que la collecte d'informations passive et active, la recherche d'informations publiquement disponibles et la reconnaissance de l'architecture des applications web et réseau .
 
     Exploitation des Vulnérabilités : Nous explorerons les tactiques employées par la Red Team pour exploiter les vulnérabilités découvertes lors du ressencement. Cela comprendra la réalisation d'attaques ciblées telles que l'injection de code, l'exploitation de failles de sécurité et l'escalade de privilèges.
 
